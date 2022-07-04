@@ -1,10 +1,10 @@
 {
-  "name": "fav-verifier",
+  "name": "crib-verifier",
   "version": "3.0.0",
-  "description": "A simple verification script used in the FΛV Community Discord Server | Made with discord.js",
-  "author": "Favian Rizqulloh",
+  "description": "",
+  "author": "",
   "contributors": [
-    "Nick Chan#0001"
+    ""
   ],
   "main": "index.js",
   "scripts": {
